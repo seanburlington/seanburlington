@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seanburlington
-- 👀 I’m interested in many aspects of web development (PHP, Drupal, Devops, QA) hands on, architecture, or team leading - I tend towards back end and behind the scenes work but with a full-stack and full lifecycle approach in defiance of silo working.
-- 🌱 I’m currently learning ReactJS and Golang (some commercial experience in these)
+- 👀 I’m interested in many aspects of web development (PHP, Laravel, Golang, React, Devops, QA) hands on, architecture, or team leading - I tend towards back end and behind the scenes work but with a full-stack and full lifecycle approach in defiance of silo working.
+- 🌱 Stacks of excperience across all types of organisation and team size
 - 💞️ I’m looking for freelance/contract work
 - 📫 Reach me on twitter personal at https://twitter.com/seanburlington and more work related at https://twitter.com/tangiblebytes 
 - More code at https://gitlab.com/tangiblebytes
